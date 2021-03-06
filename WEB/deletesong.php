@@ -135,9 +135,9 @@
 <?php
          if(isset($_POST['delete']))
          {
-            $hostname = "localhost";
+            $hostname = "3.93.188.184";
             $user = "root";
-            $pass = "";
+            $pass = "123@123a";
             $db = "tunesource";
             $con = mysqli_connect($hostname,$user,$pass,$db);
             mysqli_query($con,$db);

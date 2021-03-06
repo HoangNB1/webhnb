@@ -134,8 +134,8 @@
 <!-- end slide -->
 
 <?php
-$username = "root"; // Khai báo username
-$password = "";      // Khai báo password
+$username = "3.93.188.184"; // Khai báo username
+$password = "123@123a";      // Khai báo password
 $server   = "localhost";   // Khai báo server
 $dbname   = "tunesource";      // Khai báo database
 
